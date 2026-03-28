@@ -1,18 +1,72 @@
-# 💫 About Me:
-## Lokith | Full Stack Developer<br><br>💻 Turning caffeine into code  <br>🎨 Building UI with creativity & logic  <br>📈 Growing step by step towards IT career  <br>🌟 Believer in consistency & self-improvement  <br><br>Serendipity ✨
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Lokith&fontSize=90&animation=fadeIn&fontAlignY=38" />
+</p>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/l_o_k.i.t.h_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Lokith m) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lokithmlokith@gmail.com) 
-
-# 💻 Tech Stack:
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Lo-kith&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Lo-kith&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lo-kith&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-UI%2FUX%20Designer-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Open%20Sourcerer-000?style=for-the-badge" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Lo-kith&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7C948&center=true&vCenter=true&width=800&lines=%22I+don%27t+fix+bugs%2C+I+just+negotiate+with+them.%22+%E2%80%94+Lokith;%22Git+push%2C+pray+harder.%22+%E2%80%94+Lokith;%22My+code+works.+I+have+no+idea+why.+Don%27t+touch+it.%22+%E2%80%94+Lokith;%22CSS+is+just+art+with+consequences.%22+%E2%80%94+Lokith;%22Stack+Overflow+is+my+co-founder.%22+%E2%80%94+Lokith" alt="Dev Quote" />
+</p>
+
+---
+
+<p align="center">
+  <b>⚡ "Git push, pray harder." — Lokith ⚡</b>
+</p>
+
+---
+
+### 💫 About Me
+
+- 💻 **Dev Logic**: Turning caffeine into high-performance code.
+- 🎨 **Creative Vision**: Building UI with a blend of creativity & logic.
+- 📈 **Goal**: Scaling heights in the IT industry one commit at a time.
+- 🌟 **Vibe**: Believer in consistency & the magic of *Serendipity*.
+
+---
+
+### 🌐 Let's Connect
+
+<p align="left">
+<a href="https://linkedin.com/in/lokith-m" target="blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://instagram.com/l_o_k.i.t.h_" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+<a href="mailto:lokithmlokith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+### 💻 Tech Universe
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=ts,js,mongodb,figma,html,tailwind,css,sass,react,nextjs,nodejs,npm,git,github" />
+</p>
+
+---
+
+### 🎵 Vibing To
+
+<p align="center">
+  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_USERNAME">
+    <img src="https://novatorem-lo-kith.vercel.app/api/spotify" alt="Spotify Now Playing" width="350" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=Lo-kith&icon=5&color=12" />
+</p>
+
+<!-- <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p> -->

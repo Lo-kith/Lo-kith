@@ -3,8 +3,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/-UI%2FUX%20Designer-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-Full%20Stack%20Engineer-000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-AI%2FUX%20Developer-000?style=for-the-badge" />
   <img src="https://img.shields.io/badge/-Open%20Sourcerer-000?style=for-the-badge" />
 </p>
 

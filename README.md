@@ -44,9 +44,23 @@
 ### 💻 Tech Universe
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,mongodb,figma,html,tailwind,css,sass,react,nextjs,nodejs,npm,git,github" />
+  <img src="https://skillicons.dev/icons?i=ts,js,mongodb,figma,html,tailwind,css,sass,react,nextjs,nodejs,npm,git,github,docker" />
 </p>
 
+---
+
+### 🤖 AI Developer Toolkit
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
 ---
 
 ### 🎵 Vibing To
